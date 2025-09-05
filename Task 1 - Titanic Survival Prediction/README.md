@@ -45,5 +45,6 @@ This notebook was developed as part of my learning journey in **data analysis an
 ---
 
 ## 🙌 Acknowledgments
-- Dataset: [Kaggle Titanic Challenge](https://www.kaggle.com/c/titanic)  
+- Dataset: [Titanic Dataset by YasserH on Kaggle](https://www.kaggle.com/datasets/yasserh/titanic-dataset)  
 - Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
+
